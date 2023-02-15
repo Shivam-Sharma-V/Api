@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "name": "shivam sharma",
+      "email": "s@gmail.com",
+      "mobile": "12345678",
+      "userId": 7,
+      "id": 7
+    },
+    {
+      "name": "fg",
+      "email": "fg@hmail.com",
+      "mobile": "2345",
+      "password": "543",
+      "id": 8
+    }
+  ],
+  "Product": [
+    {
+      "id": "1",
+      "prod_name": "Maggie",
+      "price": "14.00",
+      "qty": "100",
+      "desc": "maggie in 2 sec"
+    }
+  ]
+}
